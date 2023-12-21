@@ -1285,7 +1285,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     height: 30px;
     line-height: 26px;
     text-align: center;
-    font-size: 10px;
+    font-size: 25px;
     border-radius: 50%;
 }
 .widget-content .social-icon li a:hover{
